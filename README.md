@@ -11,7 +11,7 @@ O objetivo é tornar explícitos a ação, o responsável, as condições e o re
 Este projeto deriva conceitualmente da skill **`asd-ste100`**, do projeto **ASD-STE100**, descrita como “ASD-STE100 for technical literature”.
 A adaptação tomou como referência estes arquivos da skill original:
 
-- `asd-ste100/SKILL.md` — escopo e regras principais;
+- `/SKILL.md` — escopo e regras principais;
 - `asd-ste100/references/rules.md` — regras de redação;
 - `asd-ste100/references/words.md` — critérios de vocabulário;
 - `asd-ste100/references/examples.md` — exemplos de aplicação.
