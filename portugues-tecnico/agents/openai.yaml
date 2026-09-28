@@ -1,0 +1,4 @@
+interface:
+  display_name: "Português técnico brasileiro"
+  short_description: "Redação técnica clara em pt-BR com termos precisos"
+  default_prompt: "Use $portugues-tecnico para revisar este texto técnico em pt-BR, preservando o sentido e os termos ingleses necessários."
